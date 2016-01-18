@@ -7,3 +7,9 @@
 *    Bullet 2 
 
 Paragraph text here
+
+
+''' 
+puts "this is code" 
+if this then that 
+'''
