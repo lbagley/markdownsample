@@ -8,7 +8,7 @@
 
 Paragraph text here
 
-```
+```c++
 puts "this is code" 
 if this then that 
 ```
